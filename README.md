@@ -2,9 +2,7 @@
 The Air Object Path Prediction and Collision Avoidance System is an AI-based solution designed to enhance aerial safety by predicting future trajectories of flying objects and proactively preventing mid-air collisions.
 The system leverages Machine Learning, Kalman Filtering, and LSTM neural networks to forecast motion paths and trigger collision avoidance strategies in real time.
 
-This project is developed as part of the B.Tech CSE (AI & ML) curriculum at SRM Institute of Science and Technology 
 
-ML_REPORT
 
 .
 
